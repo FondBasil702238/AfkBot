@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MinciufS2.aternos.me",
-    "port": 26975,
+    "ip": "minciufs2.sdlf.fun",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
